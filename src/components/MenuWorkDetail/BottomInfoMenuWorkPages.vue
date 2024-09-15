@@ -5,7 +5,7 @@
         <div class="col-xl-10 offset-xl-1">
           <div>
             <h5>
-              Estamos a tu plena disposición en Cantabria para los siguientes casos:
+              Estamos a tu plena disposición en País Vasco para los siguientes casos:
             </h5>
           </div>
           <ul class="list-unstyled li-space-lg mb-5">

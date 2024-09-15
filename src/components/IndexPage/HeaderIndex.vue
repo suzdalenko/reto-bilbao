@@ -1,8 +1,8 @@
 <template>
     <nav id="navbarExample" class="navbar navbar-expand-lg fixed-top navbar-light" aria-label="Main navigation">
         <div class="container">
-            <a class="navbar-brand logo-image" href="https://mudanzasreto.com" style="margin-top:-11px;">
-                <i class="fa fa-truck icon_image" aria-hidden="true"></i> <span class="header_title">MUDANZAS RETO</span>
+            <a class="navbar-brand logo-image" href="https://retobilbao.com/" style="margin-top:-11px;">
+                <i class="fa fa-truck icon_image" aria-hidden="true"></i> <span class="header_title">MUDANZAS RETO EUSKADI</span>
             </a> 
             <button class="navbar-toggler p-0 border-0" type="button" aria-label="Toggle navigation" v-on:click="openMainMenu">
                 <span class="navbar-toggler-icon" id="click_button_top_menu"></span>
@@ -28,9 +28,32 @@
                             <li><div class="dropdown-divider"></div></li>
                             <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[1]">Vaciados</router-link></li>
                             <li><div class="dropdown-divider"></div></li>        
-                             <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[2]">Reformas</router-link></li>
+                            <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[2]">Reformas</router-link></li>
                             <li><div class="dropdown-divider"></div></li>
-                             <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[3]">Pintura</router-link></li>
+                            <li><router-link class="dropdown-item" v-bind:to="'/'+infoPages[3]">Pintura</router-link></li>
+
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><router-link class="dropdown-item" to="/Mudanzas/Bilbao">Mudanzas Bilbao</router-link></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><router-link class="dropdown-item" to="/Mudanzas/San-Sebastián-(Donostia)">Mudanzas San Sebastián (Donostia)</router-link></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><router-link class="dropdown-item" to="/Mudanzas/Vitoria-Gasteiz">Mudanzas Vitoria-Gasteiz</router-link></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><router-link class="dropdown-item" to="/Mudanzas/Getxo">Mudanzas Getxo</router-link></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><router-link class="dropdown-item" to="/Mudanzas/Barakaldo">Mudanzas Barakaldo</router-link></li>
+
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Santander">Mudanzas Santander</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Torrelavega">Mudanzas Torrelavega</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Camargo">Mudanzas Camargo</a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Laredo">Mudanzas Laredo </a></li>
+                            <li><div class="dropdown-divider"></div></li>
+                            <li><a class="dropdown-item" href="https://mudanzasreto.com/Mudanzas/Castro-Urdiales">Mudanzas Castro Urdiales</a></li>
+
                             <li><div class="dropdown-divider"></div></li>
                             <li><router-link class="dropdown-item" to="/cuidades">Cuidades</router-link></li>
                             <li><div class="dropdown-divider"></div></li>

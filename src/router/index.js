@@ -4,11 +4,11 @@ import Index from '../views/Index';
 const routes = [{
     path: '/',
     component: Index,
-    meta: { title: 'Mudanzas Reto', description: 'Mudanzas y transportes particulares y empresas, recogida de muebles, vaciado de pisos y garajes, servicio limpieza'}
+    meta: { title: 'Mudanzas Reto Bilbao (Vizcaya) Vitoria-Gasteiz (Álava) San Sebastián (Donostia) (Guipúzcoa) Barakaldo (Vizcaya) Getxo (Vizcaya) Irun (Guipúzcoa)', description: 'Mudanzas RETO País Vasco y transportes particulares y empresas, recogida de muebles, vaciado de pisos y garajes, servicio limpieza'}
   },{
     path: '/cuidades',
     component: () => import ('../views/Cuidades'),
-    meta: { title: '✔️ Mudanzas Reto Cantabria ', description: 'Mudanzas Reto Santander, Mudanzas y transportes particulares y empresas, recogida de muebles'}
+    meta: { title: '✔️ Mudanzas Reto Bilbao y País Vasco ', description: 'Mudanzas Reto Santander, Mudanzas y transportes particulares y empresas, recogida de muebles'}
   },{
     path: '/:work/:city',
     component: () => import ('../views/WorkPage'),

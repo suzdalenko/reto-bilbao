@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-10 offset-xl-1">
-                    <h1 class="h1-large">Mudanzas Reto Cantabria</h1>
+                    <h1 class="h1-large">Mudanzas Reto Bilbao y País Vasco</h1>
                 </div>
             </div> 
         </div> 

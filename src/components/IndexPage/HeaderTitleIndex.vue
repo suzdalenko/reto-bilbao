@@ -4,8 +4,9 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h1 class="h1-large">Mudanzas Reto Cantabria</h1>
-                        <p class="p-large">Mudanzas y transportes particulares y empresas, recogida de muebles, vaciado de pisos y garajes, limpieza y más...</p>
+                        <h1 class="h1-large">Mudanzas Reto Bilbao, Vitoria-Gasteiz, San Sebastián</h1>
+                        <p class="p-large">
+                            Ofrecemos servicios de mudanzas y transporte tanto para particulares como para empresas. Nos especializamos en la recogida de muebles, vaciado de pisos y garajes, limpieza, y mucho más.                        </p>
                         <a class="btn-solid-lg" href="https://api.whatsapp.com/send?phone=34642575221&text=Hola" target="_blank"><i class="fab fa-whatsapp"></i> 642 575 221</a>
                     </div> 
                 </div> 

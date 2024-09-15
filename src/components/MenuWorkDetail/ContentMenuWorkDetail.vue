@@ -21,8 +21,7 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-10 offset-xl-1">
-          <p>
-            {{ desc1 }}
+          <p v-html="desc1">
           </p>
         </div>
       </div>
@@ -32,8 +31,7 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-10 offset-xl-1">
-          <p>
-            {{ desc2 }}
+          <p v-html="desc2">
           </p><br><br><br>
           <img class="img-fluid mb-5" v-bind:src="images[1]" v-bind:alt="title"/>
         </div>
@@ -62,7 +60,7 @@ export default {
       thatIsPageRoute(currentId){
           let objInfo = 'none';
           switch(currentId){
-              case infoPages.listWorkDetail[0] : objInfo = infoPages.infoPages[0] ; break;             //  'Mudanzas-particulares-y-empresas-Cantabria',
+              case infoPages.listWorkDetail[0] : objInfo = infoPages.infoPages[0] ; break;
               case infoPages.listWorkDetail[1] : objInfo = infoPages.infoPages[1] ; break;
               case infoPages.listWorkDetail[2] : objInfo = infoPages.infoPages[2] ; break;
               case infoPages.listWorkDetail[3] : objInfo = infoPages.infoPages[3] ; break;  

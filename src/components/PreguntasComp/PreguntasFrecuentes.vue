@@ -32,7 +32,7 @@
                             <li class="d-flex">
                                     <i class="fas fa-square"></i>
                                     <router-link to="/" class="decoration_none">
-                                        <h5 class="flex-grow-1">¿Cuánto cuesta una mudanza en <b>Santander</b>?</h5>
+                                        <h5 class="flex-grow-1">¿Cuánto cuesta una mudanza en <b>Bilbao</b>?</h5>
                                     </router-link>
                             </li>
                         </ul>
@@ -40,7 +40,7 @@
                             <li class="d-flex">
                                     <i class="fas fa-square"></i>
                                     <router-link to="/" class="decoration_none">
-                                        <h5 class="flex-grow-1">¿Cuánto cuesta una mudanza de <b>Madrid a Santander</b>?</h5>
+                                        <h5 class="flex-grow-1">¿Cuánto cuesta una mudanza de <b>San Sebastián a Vitoria-Gasteiz</b>?</h5>
                                     </router-link>
                             </li>
                         </ul>

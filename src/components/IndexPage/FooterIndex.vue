@@ -6,7 +6,7 @@
                 <div class="col-lg-12">
                     <div class="text-container">
                         <h2>Servicio atención al cliente</h2>
-                        <p class="p-large">En Mudanzas Reto estamos a tu plena disposición con cualquier tipo de pregunta duda o sugerencia, no dudes en escribirnos o llamarnos. <br> Trabajamos para ti</p>
+                        <p class="p-large">En Mudanzas Reto, estamos siempre disponibles para resolver cualquier pregunta, duda o sugerencia que puedas tener. No dudes en contactarnos por escrito o por teléfono; estamos aquí para ayudarte.<br><br> Tu satisfacción es nuestra prioridad.</p>
                         <a class="btn-solid-lg" href="https://api.whatsapp.com/send?phone=+34642575221&text=Hola"><i class="fab fa-whatsapp"> 642 575 221</i></a>
                     </div> 
                 </div>

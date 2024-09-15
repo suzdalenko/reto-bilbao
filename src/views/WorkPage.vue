@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row">
                 <div class="text-box mb-5" v-if="photo_referenceArray.length > 0">
-                        <h3>{{ cityPage() }} </h3>
+                        <h3>Mudanzas Reto en {{ cityPage() }} </h3>
                 </div>
                 <div class="col-lg-12" v-if="photo_referenceArray.length > 0">
                     <img class="image_galery mt-5 mb-3" v-on:load="onImgLoad" v-bind:src="photo_referenceArray[0]" v-bind:alt="workPage() + ' ' + cityPage()">
@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-xl-10 offset-xl-1"> 
                     <span v-for="(refer, index) in photo_referenceArray"  v-bind:key="index">
-                        <img v-if="photo_referenceArray[index+1]" class="image_galery mb-5" v-bind:src="photo_referenceArray[index+1]" v-bind:alt="workPage() + ' ' + cityPage() + ' Cantabria'">
+                        <img v-if="photo_referenceArray[index+1]" class="image_galery mb-5" v-bind:src="photo_referenceArray[index+1]" v-bind:alt="workPage() + ' ' + cityPage() + ' País Vasco'">
                     </span>
                     <ContentWorkPage v-bind:cityPage="cityPage()" />
                 </div> 
