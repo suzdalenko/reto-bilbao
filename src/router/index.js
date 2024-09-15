@@ -37,12 +37,12 @@ const router = createRouter({history: createWebHistory(process.env.BASE_URL), ro
 
 router.beforeEach((to) => {
   if(to.meta.title) { 
-     document.title = to.meta.title.toUpperCase();
-     document.getElementsByTagName('meta').namedItem('description').setAttribute('content', to.meta.description)
+     document.title = to.meta.title.toUpperCase()+ ' - MUDANZAS RETO';
+     document.getElementsByTagName('meta').namedItem('description').setAttribute('content', to.meta.description)+ ' - MUDANZAS RETO, MUDANZAS RETO EUSKADI País Vasco';
   } 
   if (to.params.work && to.params.city){
-     let pageTitle = to.params.work.replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ') + ' ';
-     pageTitle += to.params.city.replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ');
+     let pageTitle = to.params.work.replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ')+ ' - MUDANZAS RETO, MUDANZAS RETO EUSKADI País Vasco';
+     pageTitle += to.params.city.replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ').replace('-', ' ')+ ' - MUDANZAS RETO, MUDANZAS RETO EUSKADI País Vasco';
      document.title = pageTitle.toUpperCase();
      document.getElementsByTagName('meta').namedItem('description').setAttribute('content', pageTitle)
   }
