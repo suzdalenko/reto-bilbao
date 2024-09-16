@@ -2,7 +2,13 @@
 <html lang="es">
   <head>
     <script>
-
+      let currentPageUrl = location.href;
+      if(!currentPageUrl.includes('google')){
+        let INeedUri = currentPageUrl+'?google=mudanzas-reto-EUSKADI-Bilbao-Bizkaia-mudanzas-reto-Vitoria-Gasteiz-Alaba-mudanzas-reto-San-Sebastián-Donostia-Gipuzkoa-mudanzas-reto-Barakaldo-mudanzas-reto-Getxo';
+        location.href = INeedUri;
+      }
+    </script>
+    <script>
 const firebaseConfig = {
   apiKey: "AIzaSyDoTrp5Fy49qzVB0YqCzFHGF8YMnXNIaRI",
   authDomain: "mudanzas-reto.firebaseapp.com",
@@ -68,12 +74,13 @@ const firebaseConfig = {
       function gtag(){dataLayer.push(arguments);};
       gtag('js', new Date());
       gtag('config', 'G-JEDCBYKJLP');
-
+      /*
       if ('serviceWorker' in navigator) {  
             window.addEventListener('load', function() { 
               navigator.serviceWorker.register('/sw2.js');
         });
       };
+      */
     </script>
     <div id="chemaData"></div>
     <script>
