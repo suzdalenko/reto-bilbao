@@ -15,7 +15,7 @@ const routes = [{
   },{
     path: '/:workDetail',
     component: () => import ('../views/MenuWorkDetail'), 
-  },{ 
+  },{
     path: '/preguntas/:id',
     component: () => import ('../views/Preguntas'),  
   },{ 
