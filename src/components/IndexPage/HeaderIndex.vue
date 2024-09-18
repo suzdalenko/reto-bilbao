@@ -10,7 +10,7 @@
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault" v-on:click="hiddenMainMenu($event)">
                 <ul class="navbar-nav ms-auto navbar-nav-scroll">
                     <li class="nav-item">
-                        <a class="nav-link" href="/#header">Inicio</a>
+                        <a class="nav-link" href="/">Inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/#services">Servicios</a>

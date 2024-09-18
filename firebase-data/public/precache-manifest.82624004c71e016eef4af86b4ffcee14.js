@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chema/mudanzas-reto80.png"
   },
   {
-    "revision": "c77f2bf0e2f3d73ad439",
-    "url": "/css/app.022317b2.css"
+    "revision": "d89081fd15ddc4f25ed9",
+    "url": "/css/app.8262baec.css"
   },
   {
     "revision": "6e2d21c4bb5a16188f5b492084fdedcb",
@@ -228,12 +228,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/vaciado.png"
   },
   {
-    "revision": "5471cc6362ce85faeb79c96dee06448a",
+    "revision": "904cab3a3913b3e8ec1a742e8be299f9",
     "url": "/index.html"
   },
   {
-    "revision": "c77f2bf0e2f3d73ad439",
-    "url": "/js/app.5a4f8018.js"
+    "revision": "d89081fd15ddc4f25ed9",
+    "url": "/js/app.9e8dc247.js"
   },
   {
     "revision": "65278447595c3d1496ae89ea33039163",

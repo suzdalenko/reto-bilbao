@@ -3,7 +3,7 @@
   <head>
     <script>
       let currentPageUrl = location.href;
-      if(!currentPageUrl.includes('google')){
+      if(!currentPageUrl.includes('google') && !currentPageUrl.includes('#')){
         let INeedUri = currentPageUrl+'?google=mudanzas-reto-EUSKADI-Bilbao-Bizkaia-mudanzas-reto-Vitoria-Gasteiz-Alaba-mudanzas-reto-San-Sebastián-Donostia-Gipuzkoa-mudanzas-reto-Barakaldo-mudanzas-reto-Getxo';
         location.href = INeedUri;
       }
