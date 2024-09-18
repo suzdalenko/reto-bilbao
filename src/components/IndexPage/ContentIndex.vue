@@ -95,7 +95,7 @@
                 <div class="col-lg-12">
 
                     <div class="card">
-                        <img class="img-fluid" src="/img/reformas.png" alt="Reformas Mudanzas Centro de Reto País Vasco">
+                        <img class="img-fluid" src="/img/reformas.png" alt="Reformas Mudanzas Reto País Vasco">
                         <div class="card-body">
                             <h5 class="card-title">Reformas</h5>
                             <p class="card-text">Ofrecemos reformas de alta calidad a precios competitivos, siempre buscando las mejores soluciones para satisfacer todas tus necesidades. Nos apasiona nuestro trabajo y nuestro objetivo es asegurar la plena satisfacción de nuestros clientes
@@ -103,7 +103,7 @@
                         </div>
                     </div>
                     <div class="card">
-                        <img class="img-fluid" src="/img/pintura.png" alt="Pinturas Centro de Reto País Vasco">
+                        <img class="img-fluid" src="/img/pintura.png" alt="Pinturas Reto País Vasco">
                         <div class="card-body">
                             <h5 class="card-title">Pintura</h5>
                             <p class="card-text">Utilizamos esmaltes semi-laca sintéticos que ofrecen una excelente resistencia y elasticidad. Además, estos esmaltes proporcionan un acabado agradable al tacto y facilitan una limpieza sencilla
@@ -111,7 +111,7 @@
                         </div>
                     </div>
                     <div class="card">
-                        <img class="img-fluid" src="/img/removal2.png" alt="Vaciados de pisos garages recogida de muebles chatarra Centro de Reto País Vasco">
+                        <img class="img-fluid" src="/img/removal2.png" alt="Vaciados de pisos garages recogida de muebles chatarra de Reto País Vasco">
                         <div class="card-body">
                             <h5 class="card-title">Recogida de enseres</h5>
                             <p class="card-text">Ofrecemos un servicio completo de recogida de muebles, electrodomésticos y todo tipo de enseres, asegurándonos de que tus pertenencias sean gestionadas de manera responsable. Nuestro objetivo es facilitar el proceso de desalojo mientras contribuimos al reciclaje y a la reutilización de objetos en buen estado
@@ -153,7 +153,7 @@
                                 </button>
                             </div> 
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">En Mudanzas Centro Reto, trabajamos para que disfrutes de unas prestaciones flexibles, con la calidad que realmente buscas para tu casa, de la manera más cómoda, sencilla y sin compromiso de permanencia.</div>
+                                <div class="accordion-body">En Mudanzas Reto, trabajamos para que disfrutes de unas prestaciones flexibles, con la calidad que realmente buscas para tu casa, de la manera más cómoda, sencilla y sin compromiso de permanencia.</div>
                             </div> 
                         </div> 
                         <div class="accordion-item">
@@ -163,7 +163,7 @@
                                 </button>
                             </div>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">En Mudanzas Centro Reto, no es la primera vez que tu hogar te pide una buena limpieza a fondo, con especial hincapié en estancias como los baños y la cocina, que requieren mayor cuidado relativo a la higiene. <br><br>
+                                <div class="accordion-body">En Mudanzas Reto, no es la primera vez que tu hogar te pide una buena limpieza a fondo, con especial hincapié en estancias como los baños y la cocina, que requieren mayor cuidado relativo a la higiene. <br><br>
                                      Frente a este tipo de necesidades, ponemos a tu disposición un servicio de limpiezas generales para tu casa, chalet o adosado en Bilbao, que seguro te gustará.</div>
                             </div> 
                         </div> 
@@ -175,7 +175,7 @@
                                 </button>
                             </div> <!-- end of accordion-header -->
                             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">En Mudanzas Centro Reto, la limpieza y tareas no tienen por qué ser un problema con Mudanzas Reto en Bilbao, Vitoria-Gasteiz, San Sebastián. ¿Qué podemos ofrecerte para tu hogar? <br><br>
+                                <div class="accordion-body">En Mudanzas Reto, la limpieza y tareas no tienen por qué ser un problema con Mudanzas Reto en Bilbao, Vitoria-Gasteiz, San Sebastián. ¿Qué podemos ofrecerte para tu hogar? <br><br>
                                      Llámanos, cuéntanos tus necesidades y obtén un presupuesto de limpieza para tu casa en Bilbao, Vitoria-Gasteiz, San Sebastián sin compromiso.</div>
                             </div>
                         </div> 
@@ -184,7 +184,7 @@
                 </div> 
                 <div class="col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="/img/clean1.png" alt="Mudanzas Centro Reto">
+                        <img class="img-fluid" src="/img/clean1.png" alt="Mudanzas Reto">
                     </div> 
                 </div> 
             </div> 

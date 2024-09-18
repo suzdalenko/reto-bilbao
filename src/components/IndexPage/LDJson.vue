@@ -21,7 +21,7 @@ export default{
                   if(sc.type == 'application/ld+json') sc.remove();
                 }
 
-            let titlePage = 'Centro Mudanzas Reto';
+            let titlePage = 'Mudanzas Reto';
             let currentHref = window.location.pathname;
             if(currentHref != '/'){
                 let otherTitle = currentHref.split('/');
