@@ -40,3 +40,14 @@
 .img_loading{
     width: 250px; height: 250px;
 }
+::-webkit-scrollbar{
+    width: 7px;
+    height: 7px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #0092FF;
+    border-radius: 11px;
+}
+::-webkit-scrollbar-track {
+    background: rgba(122, 122, 122, 0.2);
+}

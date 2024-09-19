@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.81c76c810138fca6c56cb0079b98ca8d.js"
+  "/precache-manifest.032917caecea9e90df9ba37476639d8d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mudanzasreto"});
